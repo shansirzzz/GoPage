@@ -36,7 +36,7 @@ let draw = () => {
         s_body = _snake[i];
         ctx.fillRect(s_body.x*30,s_body.y*30,28,28);
         if(s_body.x == _snake[0].x && s_body.y ==_snake[0].y && i !=0 ){
-            alert("GAME OVER!!!");
+            alert("你输了!!!");
         }
     }
     ctx.fillStyle='rgba(55,66,250,0.8)';
