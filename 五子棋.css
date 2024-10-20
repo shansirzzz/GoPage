@@ -5,7 +5,7 @@
 }
 body{
     min-height: 100vh;
-    background:linear-gradient(to top, #0c192c,#202667)
+    background:linear-gradient(to top, #9900bb,#cb2fee)
 }
 canvas{
     background:linear-gradient(#820def2f,#18022a);
