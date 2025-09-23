@@ -1,2 +1,2 @@
 from namecheap.com import web;
-create 'https://shansirzzz.space'
+create 'https://shansirzzz.space';
